@@ -5,8 +5,8 @@ app.use(express.json());
 
 // Sample student data (in-memory)
 let students = [
-    { id: 1, name: "Ajit", english: 85, math: 90, science: 78 },
-    { id: 2, name: "Ranjit", english: 70, math: 65, science: 80 }
+    { id: 1, name: "Yash", english: 85, math: 90, science: 78 },
+    { id: 2, name: "Kartik", english: 70, math: 65, science: 80 }
 ];
 
 // Home route
